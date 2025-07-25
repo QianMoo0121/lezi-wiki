@@ -93,6 +93,12 @@ export const NAV_DATA: NavData[] = [
         desc: '还不是因为我太强了，嫉妒我牛逼',
         link: '/article/XeCraft服务器传（凌天传）',
       },
+      {
+        icon: 'https://www.emojiall.com/images/120/apple/ios-17.4/1f605.png',
+        title: '七七转',
+        desc: 'tick128，从0开始的宇宙级虚空优化传说！',
+        link: '/article/七七转',
+      },
     ],
   },
   {
